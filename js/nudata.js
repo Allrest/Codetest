@@ -1,9 +1,6 @@
-
-	$(document).ready(function() {
+$(document).ready(function() {
 	console.log("Document ready");
-
 	LoginPage.initialise();
-	
 });
 
 /**
@@ -24,11 +21,9 @@ PageElements.feedbackMessage = $("#feedback_message");
  * Main logic for the login page
  */
 function LoginPage(){
-	/***
 	PageElements.feedbackMessage.html("Here is lgpage";
 	PageElements.feedbackMessage.show(190);
-	***/
-}
+	}
 
 /**
  * The API URL to send POST requests to
