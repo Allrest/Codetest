@@ -33,7 +33,7 @@ function LoginPage(){
  * The API URL to send POST requests to
  * You will populate this with your endpoint as part of Step 1
  */
-LoginPage.apiURL = "./js/endpn.php";
+LoginPage.apiURL = "js/endpn.php";
 
 
 /**
