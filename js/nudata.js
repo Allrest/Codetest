@@ -1,4 +1,4 @@
-<script language="JavaScript" type="text/javascript" src="<?php echo get_option('siteurl') ?>/js/jquery-1.2.6.min.js"></script>
+
 	$(document).ready(function() {
 	console.log("Document ready");
 
